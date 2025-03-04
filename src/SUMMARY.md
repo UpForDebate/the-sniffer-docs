@@ -7,13 +7,12 @@
 - [Colors](colors.md)
 <!---
     TODO
-    FINISH BUTTON
-    WRITE LEVER
     WRITE TRAVEL PIPE
     ADD SECRET FOREGROUND
     ...
 -->
-- Interactables
+# Class Reference
+- [Interactables]()
   - [Box](interactables/box.md)
   - [Bucket](interactables/bucket.md)
   - [Button](interactables/button.md)
