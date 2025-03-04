@@ -12,8 +12,8 @@ A togglable [Colored](../colors.md) Lever
 | ---- | ----- | ------- |
 |[bool](https://docs.godotengine.org/en/stable/classes/class_bool.html#class-bool)|[sniffer_only](#bool-sniffer_only--false)|false|
 |[bool](https://docs.godotengine.org/en/stable/classes/class_bool.html#class-bool)|[negative](#bool-negative--false)|false|
-|[bool](https://docs.godotengine.org/en/stable/classes/class_bool.html#class-bool)|cops_only_pull|false|
-|[bool](https://docs.godotengine.org/en/stable/classes/class_bool.html#class-bool)|starts_down|false|
+|[bool](https://docs.godotengine.org/en/stable/classes/class_bool.html#class-bool)|[cops_only_pull](#bool-cops_only_pull--false)|false|
+|[bool](https://docs.godotengine.org/en/stable/classes/class_bool.html#class-bool)|[starts_down](#bool-starts_down--false)|false|
 | [int](https://docs.godotengine.org/en/stable/classes/class_int.html#class-int)  | [color](../colors.md) | 0 |
 
 
