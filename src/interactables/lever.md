@@ -1,4 +1,6 @@
 # Lever Class
+__Extends__: [Area2D](https://docs.godotengine.org/en/stable/classes/class_area2d.html#class-area2d)
+
 A togglable [Colored](../colors.md) Lever
 - Can be toggled by the player, through the interaction button, and enemies, through collision
 - Cannot be toggled by same colored objects (white being an exception)

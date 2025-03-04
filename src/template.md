@@ -1,4 +1,6 @@
 # Foo Class
+__Extends__: [Node](https://docs.godotengine.org/en/stable/classes/class_node.html#class-node)
+
 The Foo is an example
 
 The Foo is used for nothing

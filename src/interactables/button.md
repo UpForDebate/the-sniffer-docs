@@ -1,4 +1,5 @@
 # Button Class
+__Extends__: [Area2D](https://docs.godotengine.org/en/stable/classes/class_area2d.html#class-area2d)
 A pressable [Colored](../colors.md) button
 - Can be pressed by players, boxes and enemies
 - Cannot be pressed by same colored objects (white being an exception)
