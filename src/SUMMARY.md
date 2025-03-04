@@ -18,4 +18,3 @@
   - [Button](interactables/button.md)
   - [Lever](interactables/lever.md)
   - [Travel Pipe](interactables/travel_pipe.md)
-  - 
